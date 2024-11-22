@@ -4,4 +4,8 @@ This repository contains the official code from ''Semore: Enhanced Semantic Moti
 
 # Repository requirements
 
-···python
+```python
+def hello_world():
+    print("Hello, World!")
+
+hello_world()
