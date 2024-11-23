@@ -1,6 +1,6 @@
 # Semore
 
-This repository contains the official code from ''Semore: Enhanced Semantic Motion Representation Learning with CLIP for Visual Reinforcement Learning''
+This repository contains the code from the submission ''Semore: Enhanced Semantic Motion Representation Learning with CLIP for Visual Reinforcement Learning''
 
 # Repository requirements
 
