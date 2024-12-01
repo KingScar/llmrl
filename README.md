@@ -8,6 +8,6 @@ This repository contains the code from the submission ''Semore: Enhanced Semanti
 
 conda create -n semore python=3.7 -y
 conda activate semore
-pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
+pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu121
 pip install -r requirements.txt
 
